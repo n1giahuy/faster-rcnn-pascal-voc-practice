@@ -1,0 +1,9 @@
+root: "../VOCdetection/VOCdevkit/VOC2012/"
+epochs: 60
+batch-size: 10
+image-size: 224
+learning-rate: 0.005
+num-classes: 21
+num-workers: 2
+last_checkpoint_path: "model_saving/last.pt"
+best_checkpoint_path: "model_saving/best.pt"

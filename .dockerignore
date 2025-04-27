@@ -1,0 +1,6 @@
+VOCdevkit/
+model_saving/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env

@@ -1,0 +1,11 @@
+opencv-python-headless
+pillow
+matplotlib
+seaborn
+pyyaml
+tqdm
+pandas
+numpy
+torchmetrics
+albumentations
+torchvision
